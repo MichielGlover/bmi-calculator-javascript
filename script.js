@@ -3,7 +3,7 @@
 // calculate
 //output
 
-//bmi formula weight / height squared * 703
+//bmi formule gewicht / (lengte * lengte) * 10,000
 
 function calculateBmi() {
     let weight = document.getElementById('weight').value
